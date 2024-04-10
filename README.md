@@ -3,6 +3,11 @@
 This repository contains a 3D visualization of the solar system created using the Three.js library. It provides an interactive experience where users can explore the planets and their orbits around the sun.
 
 
+
+https://github.com/Ashif-107/3D-Solar-System/assets/144139175/dd61b0dd-ae93-43bf-8227-d0043d2e0a4e
+
+
+
 ## Features
 
 - **Realistic Visualization**: The planets are rendered with high-quality textures and 3D models to provide a realistic representation of the solar system.
