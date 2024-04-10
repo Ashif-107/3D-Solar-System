@@ -1,0 +1,5 @@
+node_modules
+/.parcel-cache
+/.parcelrc
+/static
+/package-lock.json
